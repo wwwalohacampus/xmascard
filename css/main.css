@@ -186,7 +186,7 @@ body {
     width: 198%;
     transform: translateX(-47.8%);
     z-index: 2;
-    background-color: cornflowerblue;
+    /* background-color: cornflowerblue; */
 }
 
 
